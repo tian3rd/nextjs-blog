@@ -24,6 +24,7 @@
   font-size: 3.6rem;
 }
 
+/* squiggle line prompted in vscode due to duplication */
 .title {
   text-align: center;
 }
@@ -32,7 +33,6 @@
 .description {
   text-align: center;
 }
-
 
 .description {
   line-height: 1.5;
