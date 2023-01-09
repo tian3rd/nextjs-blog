@@ -24,7 +24,11 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           I'm a soft/hard | ware engineer based in Canberra 🥾. Check out my
-          projects on <a href="https://github.com/tian3rd">GitHub</a>.
+          projects on{" "}
+          <a href="https://github.com/tian3rd" target="_blank">
+            GitHub
+          </a>
+          .
         </p>
         <p></p>
       </section>
