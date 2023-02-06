@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+[cosie.me] is now _alive_!
+
+> Dog power is the power of never letting go.
