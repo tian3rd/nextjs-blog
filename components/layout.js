@@ -4,8 +4,8 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 import Image from "next/image";
 
-const name = "Phi";
-export const siteTitle = "Phi's Sample Blog Website";
+const name = "Tian";
+export const siteTitle = "Day day up";
 
 // add home in Layout({})
 export default function Layout({ children, home }) {

@@ -26,12 +26,11 @@ export default function Home({ allPostsData, allTipsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          I'm a soft/hard | ware engineer based in Canberra 🥾. Check out my
-          projects on{" "}
-          <a href="https://github.com/tian3rd" target="_blank">
-            GitHub
-          </a>
-          .
+          ☝️ is my lovely Cosie, a one-year-old german shephard dog. He shares
+          the love of hiking 🥾 with me and he now lies quietly under the
+          standing table while I am coding. We are building something that we
+          will feel proud of. Just sit back and check out now and then, I
+          promise it'll be fun.
         </p>
         <p></p>
       </section>
